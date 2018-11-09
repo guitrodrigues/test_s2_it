@@ -1,9 +1,11 @@
 ## Prerequisites
-Version of node 6.11.1 or higher
+Node JS 6.11.1 or higher
 
-PHP 7.0
+PHP 7.0+
 
-MySQL
+MySQL 5.0+
+
+Composer
 
 ## Start Project
 Uncompress the tet_s2it file, access the system root and run the "composer install" command.

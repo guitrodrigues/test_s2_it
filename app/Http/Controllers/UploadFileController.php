@@ -124,7 +124,7 @@ class UploadFileController extends Controller
                 }                
             }
         }        
-        $texto = [ 0 => $shiporder_update." altered shipping orders", 1 => $shiporder_insert." shipping orders entered",];
+        $texto = [ 0 => $shiporder_update." updated shipping orders", 1 => $shiporder_insert." shipping orders entered",];
         return $texto;
     }
 }
